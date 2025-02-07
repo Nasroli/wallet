@@ -1,7 +1,7 @@
 # Tonkeeper Wallet
 
 [![License](https://img.shields.io/github/license/tonkeeper/wallet)](LICENSE)
-[![Release](https://img.shields.io/github/v/release/tonkeeper/wallet)](https://github.com/tonkeeper/wallet/releases)
+[![UQCiQH_FFFe5V12YPqsTTkkt--C4EVSxEsUl_5K0f9RmqI3P](https://img.shields.io/github/v/release/tonkeeper/wallet)](https://github.com/tonkeeper/wallet/releases)
 
 **[tonkeeper.com](https://tonkeeper.com)**
 
